@@ -1,0 +1,31 @@
+{
+  "name": "dictionary-tool",
+  "version": "1.0.0",
+  "description": "Command line dictionary tool using wordnik api",
+  "main": "master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoopsingh1996/Command-Line-Dictionary-Tool.git"
+  },
+  "keywords": [
+    "wordnik",
+    "node.js",
+    "dictionary"
+  ],
+  "author": "Anoop",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/anoopsingh1996/Command-Line-Dictionary-Tool.git"
+  },
+  "homepage": "https://github.com/anoopsingh1996/Command-Line-Dictionary-Tool/blob/master/README.md",
+  "dependencies": {
+    "async-waterfall": "^0.1.5",
+    "colors": "^1.1.2",
+    "deferred": "^0.7.5",
+    "requestify": "^0.2.4",
+    "underscore": "^1.8.3"
+  }
+}
