@@ -1,6 +1,6 @@
 # Command-Line-Dictionary-Tool
 
-A command line dictionary tool using wordnik api in node.js. Provides various commands to interact with dictionary. And a word game to play !
+A command line dictionary tool using wordnik api in node.js. Provides various commands to interact with dictionary. And a word game to play.
 
 ## Prerequisities
 - Install nodejs and npm [install](https://nodejs.org/en/download/package-manager/)
