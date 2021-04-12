@@ -1,4 +1,4 @@
-# Command-Line-Dictionary-Tool
+## Command-Line-Dictionary-Tool
 
 A command line dictionary tool using wordnik api in node.js. Provides various commands to interact with dictionary. And a word game to play.
 
